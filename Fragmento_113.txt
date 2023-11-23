@@ -1,0 +1,2 @@
+Eine Klassifikation ist eine Definition, die ein System von Definitionen
+enthält.
