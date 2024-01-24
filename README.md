@@ -1,3 +1,3 @@
 # SchlegelsFragmente
-Friedrich Schlegel Athenäums Fragments
-Fragments of Friedrich Schlegel's journal Athenäum in individual files.
+Athenäums Fragments
+Fragments of journal Athenäum in individual files.
